@@ -1,0 +1,21 @@
+{
+    "nama" : "fibri rahmawati",
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" : "2009-2-22",
+    "alamat" : {
+        "jalan" : "kp.citepus wetan RT 03 RW 01",
+        "desa" : "pasawahan",
+        "kecamatan" : "dayeuhkolot"
+    },
+    "hobi" : [
+        "masak",
+        "musik",
+        "nonton"
+    ],
+    "kontak" : {
+        "email" : "fibrirahmawati123@gmail.com",
+        "whatsapp" : "085724996536",
+        "github" : "fbrirahma",
+        "instagram" : "mbiirhma_"
+    }
+}
