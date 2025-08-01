@@ -1,0 +1,93 @@
+[
+{
+ "nama" : "bulbasaur",
+ "type" : [
+        "daun",
+        "racun"
+    ],
+ "kelemahan" : [
+        "api",
+        "es",
+        "terbang",
+        "psychic"
+    ],
+    "tinggi" : "0.7 m",
+    "berat" : "6.9 kg",
+    "kemampuan" : "hijau rindang",
+    "kategori" : "pokemon bibit",
+    "jenis kelamin" : [
+        "perempuan",
+        "laki-laki"
+    ]
+},
+{
+    "nama" : "sylvoen",
+    "type" : "peri",
+    "kelemahan" : [
+        "racun",
+        "logam"
+    ],
+    "tinggi" : "1.0 m",
+    "berat" : "23.5 kg",
+    "kemampuan" : "tubuh mempesona",
+    "kategori" : "pokemon saling berkait",
+    "jenis kelamin" : [
+        "perempuan",
+        "laki-laki"
+    ]
+},
+{
+    "nama" : "glaceon",
+    "type" : "es",
+    "kelemahan" : [
+        "api",
+        "petarung",
+        "bebatuan",
+        "logam"
+    ],
+    "tinggi" : "0.8 m",
+    "berat" : "25.9 kg",
+    "kemampuan" : "persembuayian salju",
+    "kategori" : "pokemon salju segar",
+    "jenis kelamin" : [
+        "perempuan",
+        "laki-laki"
+    ]
+},
+{
+    "nama" :"cosmog",
+    "type" : "psychic",
+    "kelemahan" : [
+        "serangga",
+        "hantu",
+        "kegelapan"
+    ],
+    "tinggi" :"0.2 m",
+    "berat" : "0.1 kg",
+    "kemampuan" : "bebal",
+    "kategori" : "pokemon nebula",
+    "jenis kelamin" : "tidak ada"
+ },
+ {
+    "nama" : "jigglypuff",
+    "type" : [
+        "peri",
+        "normal"
+    ],
+    "kelemahan" : [
+        "racun",
+        "logam"
+    ],
+    "tinggi" : "0.5 m",
+    "berat" : "5.5 kg",
+    "kemampuan" : [
+        "tubuh mempesona",
+        "bersaing"
+    ],
+    "kategori" : "pokemon balon",
+    "jenis kelamin" : [
+        "perempuan",
+        "laki-laki"
+    ]
+ }
+]
